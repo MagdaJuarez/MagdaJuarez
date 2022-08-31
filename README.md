@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MagdaJuarez.
-- 👀 I’m interested in Machine learning and visualitations tools.
+- 👀 I’m interested in Machine learning and visualisations tools.
 - 🌱 I’m currently pursuing a Master degree in Advanced Data Science at Bangor University, UK.
 - 💞️ I’m looking to collaborate on projects that involve to collect and analyse data sets to give insights. 
 
