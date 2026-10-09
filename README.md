@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MagdaJuarez.
-- 👀 I’m interested in Machine learning and visualisations tools.
+- :blue_heart: I’m interested in Machine learning and visualisations tools to support Marine Research.
 - 🌱 I hold an MSc Advanced Data Science from Bangor University, UK.
+- :ocean: I'm Research Software Engineer (RSE) at National Oceanography Centre.
 - 💞️ I’m looking to collaborate on projects that involve to collect and analyse data sets to give insights. 
 
 
